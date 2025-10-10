@@ -1,5 +1,21 @@
 body{
-    color: rgb(107, 231, 215);
-    background: rgb(398, 100, 65);
-    
+    color:rgb(143, 220, 243);
+    background-color: rgb(129, 241, 198);
+    margin:0px;
+    font-family: "Playfair Display", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px rgb(255, 249, 249);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(245, 87, 108)
+}
+
+section{
+    background: rgb(247, 76, 147);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
